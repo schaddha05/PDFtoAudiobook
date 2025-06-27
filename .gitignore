@@ -1,0 +1,9 @@
+# Ignore service-account key
+*.json
+
+# Ignore sample data and outputs
+*.pdf
+*.mp3
+
+# macOS cruft
+.DS_Store
